@@ -1,0 +1,14 @@
+{
+  "capitulos": [
+    {
+      "titulo": "Capítulo 1 - O Começo",
+      "descricao": "Tudo começou numa noite silenciosa...",
+      "link": "https://exemplo.com/capitulo1.pdf"
+    },
+    {
+      "titulo": "Capítulo 2 - A Tempestade",
+      "descricao": "As emoções se intensificam e os laços são testados.",
+      "link": "https://exemplo.com/capitulo2.pdf"
+    }
+  ]
+}
