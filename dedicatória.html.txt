@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dedicatória</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Dedicatória</h1>
+    <a href="index.html" style="color:white;">← Voltar para a página inicial</a>
+  </header>
+  <main style="padding: 2rem; max-width: 800px; margin: auto;">
+    <p>Dedico esta obra àqueles que amam em silêncio.<br><br>
+    Àqueles que só precisam de um pequeno empurrão para construir uma história e realizar seus sonhos. Seja um amor platônico ou recíproco… apenas diga o que sente!</p>
+
+    <p>Quem sabe pode dar bom, hein? Não deixe o medo, a ansiedade da possível negação ou a timidez te paralisarem. Faça o que for preciso. Tente.</p>
+
+    <p>E se a resposta não for um "não", então se acalme — ainda há esperança. Mesmo em meio ao caos das nossas vidas… vale a pena esperar.</p>
+
+    <p>Àquelas que já amei no passado: obrigado.<br>
+    E para aquela que, de forma nada comum — mas extraordinária — eu simplesmente disse o que precisava ser dito:</p>
+
+    <p><strong>Minha fé não está firmada naquilo que vejo, por isso sei… ainda serei capaz de te amar.</strong></p>
+  </main>
+</body>
+</html>
