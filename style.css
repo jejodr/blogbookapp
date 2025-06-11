@@ -24,7 +24,7 @@ main {
 }
 
 .card {
-  background-color: #030303;
+  background-color: #e4e1dc;
   border-radius: 8px;
   padding: 1.2rem;
   box-shadow: 0 0 10px rgba(0,0,0,0.4);
@@ -37,7 +37,7 @@ main {
 
 .card h2 {
   margin-top: 0;
-  color: #e50914;
+  color: #1f1f1f;
 }
 
 .card p {
