@@ -43,13 +43,13 @@ main {
 .card p {
   font-size: 0.9rem;
   margin: 0.5rem 0;
-  color: #ccc;
+  color: #000000;
 }
 
 .card a {
   display: inline-block;
   margin-top: 1rem;
-  color: #fff;
+  color: #ccc;
   background-color: #e50914;
   padding: 0.5rem 1rem;
   text-decoration: none;
@@ -57,5 +57,5 @@ main {
 }
 
 .card a:hover {
-  background-color: #ff1c24;
+  background-color: #000000;
 }
